@@ -1,4 +1,4 @@
 [dev]
 manage-node1
 [db]
-managed-node2
+manage-node2
